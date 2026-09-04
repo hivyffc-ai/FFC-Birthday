@@ -92,7 +92,7 @@ Starting at just ₹4,700, our birthday surprise for boyfriend packages offer in
       "Balloon arches and heart decorations for birthday surprise for boyfriend",
       "Fairy lights and candle-lit ambiance for birthday surprise for boyfriend",
       "Complimentary celebration cake for birthday surprise for boyfriend",
-      "Welcome drinks and snacks for birthday surprise for boyfriend",
+      "Welcome drinks and meal for birthday surprise for boyfriend",
       "Romantic music playlist for birthday surprise for boyfriend",
       "Multiple photo spots for birthday surprise for boyfriend memories",
       "Surprise coordination assistance for birthday surprise for boyfriend"
@@ -644,7 +644,7 @@ Many couples tell us that their midnight birthday surprise was the most romantic
 
 **Celebration Cake**: A delicious cake with customized message for your midnight birthday surprise. Candles and sparklers included!
 
-**Late Night Refreshments**: Coffee, hot chocolate, finger food, and light snacks perfect for midnight birthday surprise celebrations.
+**Late Night Refreshments**: Coffee, hot chocolate, finger food, and light meal perfect for midnight birthday surprise celebrations.
 
 **Music System**: Bluetooth speakers for your playlist. Create the perfect midnight birthday surprise ambiance with his/her favorite songs.
 
@@ -695,7 +695,7 @@ Starting at ₹5,500, our midnight birthday surprise packages offer incredible v
       },
       {
         question: "What food options are available for midnight birthday surprise?",
-        answer: "Our midnight birthday surprise menu includes light bites, finger food, cheese fondue, hot beverages, and snacks. Perfect for late-night celebrations without being too heavy!"
+        answer: "Our midnight birthday surprise menu includes light bites, finger food, cheese fondue, hot beverages, and meal. Perfect for late-night celebrations without being too heavy!"
       },
       {
         question: "How do I coordinate the midnight birthday surprise arrival?",
@@ -2027,7 +2027,7 @@ Don't confuse budget birthday surprise with "cheap" or "low quality." Our budget
 
 **Welcome Drinks**: Refreshing beverages to start your celebration. Budget birthday surprise welcomes you properly.
 
-**Basic Food Items**: Light bites and snacks. Budget birthday surprise keeps you satisfied without heavy dining.
+**Basic Food Items**: Light bites and meal. Budget birthday surprise keeps you satisfied without heavy dining.
 
 **Music System**: Bluetooth speakers for your playlist. Budget birthday surprise sounds good too!
 
@@ -2050,7 +2050,7 @@ Our budget birthday surprise offers the best value in Vadodara, hands down!`
 - Standard fairy lights ✓
 - Celebration cake ✓
 - Welcome drinks ✓
-- Light snacks ✓
+- Light meal ✓
 - Music system ✓
 - 1 photo corner ✓
 
@@ -2118,7 +2118,7 @@ Budget birthday surprise at Friends Factory Cafe proves that memorable doesn't m
       "Fairy light ambiance",
       "Complimentary celebration cake",
       "Welcome drinks",
-      "Light snacks and bites",
+      "Light meal and bites",
       "Bluetooth music system",
       "Photo-ready setup"
     ],
@@ -2132,7 +2132,7 @@ Budget birthday surprise at Friends Factory Cafe proves that memorable doesn't m
     faqs: [
       {
         question: "Is budget birthday surprise really just ₹4,700?",
-        answer: "Yes! Our budget birthday surprise at ₹4,700 includes venue, decorations, cake, drinks, and snacks. No hidden charges. This is the actual all-inclusive price!"
+        answer: "Yes! Our budget birthday surprise at ₹4,700 includes venue, decorations, cake, drinks, and meal. No hidden charges. This is the actual all-inclusive price!"
       },
       {
         question: "What's compromised in budget birthday surprise?",
