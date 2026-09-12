@@ -130,6 +130,17 @@
   --color-orange-800: #8A0F40;
   --color-orange-900: #6E0C33;
   --color-orange-950: #450820;
+  --color-pink-50: #FDF1F6;
+  --color-pink-100: #FBDFEA;
+  --color-pink-200: #F7BAD3;
+  --color-pink-300: #F28CB5;
+  --color-pink-400: #ED5A95;
+  --color-pink-500: #E82C77;
+  --color-pink-600: #CF1760;
+  --color-pink-700: #AA134F;
+  --color-pink-800: #8A0F40;
+  --color-pink-900: #6E0C33;
+  --color-pink-950: #450820;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-card: var(--card);
